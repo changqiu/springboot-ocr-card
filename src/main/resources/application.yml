@@ -1,0 +1,5 @@
+server:
+  port: 8080
+ocr:
+  tessdata-path: C:/Program Files/Tesseract-OCR/tessdata # Windows路径，Linux请改为 /usr/share/tesseract-ocr/4.00/tessdata
+  language: chi_sim+eng
